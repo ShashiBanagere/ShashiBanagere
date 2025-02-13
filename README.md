@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shashikiran B S</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashi-bs&label=Profile%20views&color=0e75b6&style=flat" alt="shashi-bs" /> </p>
 
 
-- 🔭 I’m currently working on **AI ML**
+
+- 🔭 I’m currently working on **ML**
 
 - 🌱 I’m currently learning **DataScience**
 
