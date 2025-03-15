@@ -13,7 +13,6 @@
 <p align="left">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashi-bs&show_icons=true&locale=en&layout=compact" alt="shashi-bs" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashi-bs&show_icons=true&locale=en" alt="shashi-bs" /></p>
 
