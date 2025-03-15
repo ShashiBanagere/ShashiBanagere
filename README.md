@@ -14,6 +14,5 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashi-bs&show_icons=true&locale=en" alt="shashi-bs" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashibanagere&show_icons=true&locale=en" alt="shashi-bs" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashi-bs&" alt="shashi-bs" /></p>
