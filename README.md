@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shashikiran B S</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate ML enthusiast from India</h3>
 
 
 
-
-- 🔭 I’m currently working on **ML**
 
 - 🌱 I’m currently learning **DataScience**
 
