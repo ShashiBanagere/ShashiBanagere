@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shashikiran B S</h1>
+<h1 align="center">Hi 👋, I'm Shashi</h1>
 <h3 align="center">A passionate ML enthusiast from India</h3>
 
 
